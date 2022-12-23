@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.75" height="92.433" viewBox="0 0 32.75 92.433">
+    <defs>
+        <filter id="Subtraction_9" x="2.052" y="0" width="30.697" height="92.433" filterUnits="userSpaceOnUse">
+            <feOffset input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="3" result="blur" />
+            <feFlood flood-opacity="0.161" />
+            <feComposite operator="in" in2="blur" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Subtraction_9)">
+        <path id="Subtraction_9-2" data-name="Subtraction 9" d="M-1780-1926.086h0v-9.762l.736-.031h-.625v-53.982l-.111,0v-9.77c1.308,4.351,5.243,7.252,11.7,8.621v56.314c-6.45,1.368-10.385,4.266-11.7,8.613Z" transform="translate(1791.55 2008.78)" fill="#1e4281" stroke="rgba(112,112,112,0)" stroke-width="1" />
+    </g>
+    <path id="Subtraction_11" data-name="Subtraction 11" d="M-1619.5-1921.344h-1v-62.244h1a18.873,18.873,0,0,1,13.435,5.565,18.876,18.876,0,0,1,5.565,13.435v24.244a18.879,18.879,0,0,1-5.565,13.435A18.876,18.876,0,0,1-1619.5-1921.344Z" transform="translate(1632.75 1998.78)" fill="#1e4281" stroke="rgba(112,112,112,0)" stroke-width="1" />
+    <text id="_..." data-name="..." transform="translate(22.25 57.28) rotate(-90)" fill="#fffefe" stroke="#747474" stroke-width="0.25" font-size="22" font-family="Tahoma">
+        <tspan x="0" y="0">...</tspan>
+    </text>
+</svg>

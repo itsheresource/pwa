@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199.194" height="34.698" viewBox="0 0 199.194 34.698">
+    <defs>
+        <filter id="Subtraction_9" x="0" y="4.001" width="92.433" height="30.697" filterUnits="userSpaceOnUse">
+            <feOffset input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="3" result="blur" />
+            <feFlood flood-opacity="0.161" />
+            <feComposite operator="in" in2="blur" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+        <filter id="Subtraction_45" x="70.046" y="4.001" width="129.148" height="30.697" filterUnits="userSpaceOnUse">
+            <feOffset input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="3" result="blur-2" />
+            <feFlood flood-opacity="0.161" />
+            <feComposite operator="in" in2="blur-2" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Subtraction_9)">
+        <path id="Subtraction_9-2" data-name="Subtraction 9" d="M-1780-1926.086h0v-9.762l.736-.031h-.625v-53.982l-.111,0v-9.77c1.308,4.351,5.243,7.252,11.7,8.621v56.314c-6.45,1.368-10.385,4.266-11.7,8.613Z" transform="translate(2008.78 -1754.8) rotate(-90)" fill="#1e4281" stroke="rgba(112,112,112,0)" stroke-width="1" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Subtraction_45)">
+        <path id="Subtraction_45-2" data-name="Subtraction 45" d="M-1780-1889.087h0v-14.674l.249-.016.125-.008.357-.023h-.62v-81.138l-.111-.007v-14.684c1.308,6.54,5.243,10.9,11.7,12.958v84.643c-6.45,2.057-10.385,6.412-11.7,12.948Z" transform="translate(2078.78 -1754.8) rotate(-90)" fill="#1e4281" stroke="rgba(112,112,112,0)" stroke-width="1" />
+    </g>
+    <path id="Subtraction_11" data-name="Subtraction 11" d="M-1613.5-1823.345h-7v-160.243h7a16.888,16.888,0,0,1,12.021,4.979,16.885,16.885,0,0,1,4.98,12.02v126.244a16.89,16.89,0,0,1-4.98,12.021A16.892,16.892,0,0,1-1613.5-1823.345Z" transform="translate(2000.78 -1595.999) rotate(-90)" fill="#1e4281" stroke="rgba(112,112,112,0)" stroke-width="1" />
+</svg>

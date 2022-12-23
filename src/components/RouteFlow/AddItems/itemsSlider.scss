@@ -1,0 +1,33 @@
+.items-container {
+  .swiper-container {
+    padding-top: 8rem;
+    padding-bottom: 2rem;
+  }
+
+  .swiper-button-next {
+    display: none;
+  }
+  .swiper-pagination-bullets {
+    bottom: 2px;
+    background: none;
+  }
+
+  .swiper-button-prev {
+    display: none;
+  }
+
+  .swiper-slide {
+    width: 155px !important;
+  }
+  .swiper-slide-prev {
+    margin-right: 5px !important;
+  }
+  .swiper-slide-next {
+    margin-left: 10px !important;
+  }
+  .swiper-slide-active {
+    transform: scale(1.09);
+    margin-right: 5px !important;
+    margin-left: 10px !important;
+  }
+}

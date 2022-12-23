@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="itshere-logo-only.svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 76 76;"
+   viewBox="4 13 45 45"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata3102"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3100" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-9"
+   inkscape:window-x="-9"
+   inkscape:cy="22.5"
+   inkscape:cx="12.063253"
+   inkscape:zoom="18.444444"
+   showgrid="false"
+   id="namedview3098"
+   inkscape:window-height="1271"
+   inkscape:window-width="2400"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style3089"
+   type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'Gilroy-Regular';}
+	.st2{font-size:60.9317px;}
+	.st3{letter-spacing:-2;}
+	.st4{letter-spacing:-3;}
+	.st5{letter-spacing:-9;}
+	.st6{letter-spacing:1;}
+	.st7{fill:#F06924;}
+</style>
+<g
+   id="g3095">
+	<path
+   id="path3091"
+   d="M26.6,14c-2.5,0-8.3,0.6-12.6,5.6c-5.6,6.6-4.5,14.2-1.8,19c2.2,3.9,8.6,13.7,10.3,16.4   c1.3,1.9,2.8,2.3,3.7,2.3c1.3,0,2.6-0.5,3.6-2c2.5-3.8,7.6-11.8,10.2-16.1c3.5-5.7,3.7-13.2-0.3-18.6C35.2,14.4,29.1,14,26.6,14z"
+   class="st0" />
+	<path
+   id="path3093"
+   d="M26.9,16.8c0,0-6.1-0.8-10.9,5.1c-4.3,5.2-3,11.7-1,15.1c1.8,3.2,8.1,13.8,9.4,16.1c0.7,1.2,1.4,1.4,2,1.4   c0.8,0,1.6-0.4,2.1-1.3c1-2,7.2-11.9,9.4-15.7c2.8-4.6,2.9-10.8-0.4-15.1C33.7,17.4,28.7,16.8,26.9,16.8z"
+   class="st7" />
+</g>
+</svg>

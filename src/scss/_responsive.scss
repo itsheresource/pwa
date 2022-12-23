@@ -1,0 +1,28 @@
+$breakpoints: (
+  'phone-m': 375px,
+  'phone-l': 414px,
+  'bp500': 500px,
+  'tablet-portrait': 768px,
+  'bp850': 850px,
+  'tablet-landscape': 1024px,
+  'desktop-hd': 1280px,
+  'bp1440': 1440px,
+  'desktop-fhd': 1920px,
+  'desktop-qhd': 2560px,
+);
+
+@mixin respond-to($breakpoint) {
+  @if map-has-key($breakpoints, $breakpoint) {
+    @if map-get($breakpoints, $breakpoint) >= map-get($breakpoints, 'desktop-fhd') {
+      @media (min-width: map-get($breakpoints, $breakpoint)) {
+        @content;
+      }
+    } @else {
+      @media (max-width: map-get($breakpoints, $breakpoint)) {
+        @content;
+      }
+    }
+  } @else {
+    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. " + "Available breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}

@@ -1,0 +1,33 @@
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.vehicle-swiper .swiper-wrapper {
+  align-items: center; /* add this will all relevant prefixes */
+}
+
+.vehicle-swiper .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  flex-direction: column;
+  height: 33.333% !important;
+  padding: 1rem !important;
+  margin: 0 !important;
+}
